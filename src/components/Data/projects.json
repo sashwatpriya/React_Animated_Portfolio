@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "E-Commerce website",
+    "imageSrc": "https://woovina.com/images/2020/07/25/best-ecommerce-website-templates.jpg",
+    "description": "This is a project made with complete react",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Spotify Website",
+    "imageSrc": "https://imageio.forbes.com/specials-images/imageserve/645a6199d5763cb1782796dd/0x0.jpg?format=jpg&crop=4000,2251,x0,y0,safe&height=900&width=1600&fit=bounds",
+    "description": "This is a project made with CSS, HTML & Javascript",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Portfolio Website",
+    "imageSrc": "portfolio.png",
+    "description": "This is a project made with CSS, HTML & Javascript",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Portfolio Website",
+    "imageSrc": "portfolio.png",
+    "description": "This is a project made with CSS, HTML & Javascript",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Spotify Website",
+    "imageSrc": "https://imageio.forbes.com/specials-images/imageserve/645a6199d5763cb1782796dd/0x0.jpg?format=jpg&crop=4000,2251,x0,y0,safe&height=900&width=1600&fit=bounds",
+    "description": "This is a project made with CSS, HTML & Javascript",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
